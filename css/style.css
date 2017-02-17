@@ -130,7 +130,7 @@ footer p {
 
   header{
     background-color: black;
-    height: 90px;
+    min-height: 50px;
   }
 
   .centrar{
