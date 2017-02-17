@@ -25,6 +25,7 @@ figure{
 .contenedor {
   max-width: 1000px;
   margin: 0 auto;
+  height: 90px;
 }
 
 .centrar{
@@ -38,7 +39,6 @@ figure{
 }
 
 .logo{
-  height: 90px
   margin: 0;
   display: inline-block;
 }
@@ -56,7 +56,6 @@ figure{
 }
 
 .empresa {
-  height: 90px;
   margin-left: 10px;
   display: inline-block;
 }
