@@ -133,6 +133,14 @@ footer p {
     min-height: 50px;
   }
 
+  footer p {
+    margin:0;
+  }
+
+  figure {
+    margin: 20px 0;
+  }
+
   .centrar{
     position: relative;
     top: 0;
@@ -148,11 +156,8 @@ footer p {
   }
 
   .email{
-    margin-bottom: 20px;
+    margin: 20px 0;
   }
   
-    footer p {
-      margin:0;
-    }
 
 }
