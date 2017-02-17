@@ -25,7 +25,6 @@ figure{
 .contenedor {
   max-width: 1000px;
   margin: 0 auto;
-  height: 90px;
 }
 
 .centrar{
@@ -132,7 +131,6 @@ footer p {
   header{
     background-color: black;
     position: relative;
-    border: 1px solid red;
     height: 90px;
   }
 
